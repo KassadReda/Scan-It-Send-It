@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project Enib</string>
+    <string name="resultat_du_scan">Resultat du scan :</string>
+    <string name="logo">logo</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="scanner_un_qr_code">Scanner un QR CODE</string>
+    <string name="hint_edit">06XXXXXXXX</string>
+</resources>
